@@ -1,0 +1,4 @@
+# Generated from novel/; never edit generated book by hand
+dist/
+__pycache__/
+*.pyc
